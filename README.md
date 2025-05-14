@@ -6,5 +6,7 @@
 ✅ HTML5<br>
 ✅ CSS3<br>
 ✅ JavaScript<br>
+<br>
 
 <img src="https://github.com/willianoliveira80/projeto-jokenpo/blob/master/JoKenP%C3%B4.jpg?raw=true" />
+
