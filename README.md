@@ -7,4 +7,4 @@
 ✅ CSS3<br>
 ✅ JavaScript<br>
 
-<img src=""/>
+<img src="https://github.com/willianoliveira80/projeto-jokenpo/blob/master/JoKenP%C3%B4.jpg?raw=true" />
